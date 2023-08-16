@@ -332,7 +332,7 @@
                             class="mx-4 flex w-[150px] items-center justify-center py-5 2xl:w-[180px]"
                         >
                             <img
-                            src="/img/smkn2.png"
+                            src="/img/smkn2-purwakarta.png"
                             alt="image"
                             class="w-full h-10" style="width: 110px;"
                             />
